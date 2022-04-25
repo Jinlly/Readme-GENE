@@ -1,22 +1,22 @@
-# xxxx
+# Readme generator
 
 #### Table of Contents
-1. [Project Description](#description)
-2. [Installation Instructions](#installation)
-3. [Usage Information](#usage)
-6. [Test Instructions](#test)
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+6. [Test](#test)
 7. [License](#license)
-8. [Questions](#contact)
-## description
-* xxxxx
-## installation
-* xxxxx
-## usage
-* xxxx
-## test
-* xxxxx
-## license
-* 
-## contact
-* Any additional infomation needed, please reach out to xxxx
-* My Github : [xxxx](http://github.com/xxxx)
+8. [Contact](#contact)
+## Description
+* generatr readme
+## Installation
+* ssss
+## Usage
+* ssss
+## Test
+* generatr readme
+## License
+* [GNU GPLv3 License](COPYING.txt)
+## Contact
+* Any additional infomation needed, please reach out to me
+* My Github : [jin](http://github.com/jin)

@@ -60,23 +60,23 @@ function generate(answers) {
     return `# ${answers.title}
 
 #### Table of Contents
-1. [Project Description](#description)
-2. [Installation Instructions](#installation)
-3. [Usage Information](#usage)
-6. [Test Instructions](#test)
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+6. [Test](#test)
 7. [License](#license)
-8. [Questions](#contact)
-## description
+8. [Contact](#contact)
+## Description
 * ${answers.description}
-## installation
+## Installation
 * ${answers.installation}
-## usage
+## Usage
 * ${answers.usage}
-## test
+## Test
 * ${answers.description}
-## license
+## License
 * ${answers.license}
-## contact
+## Contact
 * Any additional infomation needed, please reach out to ${answers.email}
 * My Github : [${answers.github}](http://github.com/${answers.github})`;
 }
